@@ -1,4 +1,13 @@
-# 📌 REST-Assured API Automation Framework
+# 📌 REST-Assured API Automation Framework  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-red" />
+  <img src="https://img.shields.io/badge/Maven-Build-blue" />
+  <img src="https://img.shields.io/badge/TestNG-Testing-orange" />
+  <img src="https://img.shields.io/badge/REST--Assured-API%20Testing-brightgreen" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-blue" />
+</p>    
 
 ## A complete end-to-end API Testing Automation Framework built using:  
 
